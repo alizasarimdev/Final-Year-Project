@@ -1,0 +1,8 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar"/>
+    <style name="CustomAlertDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorPrimary">#FFFF00</item> <!-- Yellow color for the notification background -->
+        <item name="android:textColorPrimary">#000000</item> <!-- Black color for the text -->
+    </style>
+
+</resources>
